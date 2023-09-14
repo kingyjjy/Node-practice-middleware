@@ -1,0 +1,20 @@
+form{
+    width: 500px;
+    height: 500px;
+    margin: 40px auto;
+    border: 1px solid #ededed;
+    padding: 50px;
+    box-shadow: 0 0 15px 0 rgba(0,0,0,0.1);
+    
+}
+form label{
+    width: 100px;
+    display: inline-block;
+}
+form p{
+    font-weight: 700;
+}
+button{
+    margin-top: 70px;
+    margin-left: 40%;
+}
