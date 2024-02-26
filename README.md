@@ -17,4 +17,4 @@ node.js를 사용하여 간단히 회원가입 폼과 이미지 한개 혹은 �
 ## 🔎How to🔎
 - zip파일 다운로드
 - npm start로 실행
-- localhost:8080로 실행
+- localhost:3000로 실행
